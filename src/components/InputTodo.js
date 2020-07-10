@@ -30,7 +30,7 @@ class InputTodo extends Component {
                 <input
                     type="submit"
                     className="input-submit"
-                    value="Submit"
+                    value="Add"
                 />
             </form>
         )
